@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JBravo805
 - 👀 I’m interested in ... Data Analysis, Business Analytics, Programming
-- 🌱 I’m currently learning ... Python For Data Science, AI Development
+- 🌱 I’m currently learning ... Python For Data Science, AI Development which is part of Coursera's IBM Data Analyst Professional Certificate. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... jose03@ucsb.edu
 
